@@ -1,3 +1,4 @@
-from .test import t
+from .HiruNews import HiruNews
+from .DeranaNews import DeranaNews
 
-__all__ = ["t"]
+__all__ = ["HiruNews","AdaDerana"]
